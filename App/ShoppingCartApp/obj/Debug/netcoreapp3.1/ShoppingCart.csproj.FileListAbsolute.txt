@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\ShoppingCart.exe
+C:\Users\David\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\ShoppingCart.deps.json
+C:\Users\David\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\ShoppingCart.runtimeconfig.json
+C:\Users\David\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\ShoppingCart.runtimeconfig.dev.json
+C:\Users\David\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\ShoppingCart.dll
+C:\Users\David\source\repos\TestApp\TestApp\bin\Debug\netcoreapp3.1\ShoppingCart.pdb
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.AssemblyInfo.cs
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.dll
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.pdb
+C:\Users\David\source\repos\TestApp\TestApp\obj\Debug\netcoreapp3.1\ShoppingCart.genruntimeconfig.cache
