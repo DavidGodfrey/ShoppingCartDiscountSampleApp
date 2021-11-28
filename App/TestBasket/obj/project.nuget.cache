@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9D4YYB5KrtelKWewAPxuxwnVLd6ShQunirRqjg1C0zN3Cp7BdAw3U38Yyi39yg26KA6GnN+mFnsDjd1UyhntfA==",
+  "dgSpecHash": "Sq7rPq1XaRJLvecgwyFLEYJXLMUv+LVJhdqkP8szBGxcOX1HPWebEUpfstGdh/TZrnE/HEGsf6GHei3Wex4Brg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David\\source\\repos\\TestApp\\TestBasket\\TestBasket.csproj",
+  "projectFilePath": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\TestBasket\\TestBasket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

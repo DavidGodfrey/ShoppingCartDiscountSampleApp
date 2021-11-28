@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\ShoppingCart.csproj": {}
+    "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\ShoppingCart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\ShoppingCart.csproj": {
+    "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\ShoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\ShoppingCart.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\ShoppingCart.csproj",
         "projectName": "ShoppingCart",
-        "projectPath": "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\ShoppingCart.csproj",
+        "projectPath": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\ShoppingCart.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\obj\\",
+        "outputPath": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

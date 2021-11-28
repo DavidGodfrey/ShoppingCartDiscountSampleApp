@@ -22,6 +22,17 @@ namespace ShoppingCart
 
         }
 
+        //Basket containing more than 10 items for testing of Large Discount function.
+        public List<BasketItem> GenerateLargeBasket()
+        {
+            List<BasketItem> basketItems = new List<BasketItem>();
+            basketItems.Add(new BasketItem { ID = 1, Name = "t-shirt", Price = 10, Quantity = 2, DiscountedPrice = 10 });
+            basketItems.Add(new BasketItem { ID = 2, Name = "shoes", Price = 20.50M, Quantity = 3, DiscountedPrice = 20.50M });
+            basketItems.Add(new BasketItem { ID = 3, Name = "pants", Price = 30, Quantity = 20, DiscountedPrice = 30 });
+
+            return basketItems;
+        }
+
         public List<BasketItem> ApplyDiscountToBasket(List<BasketItem> basket, List<Discount> discounts)
         {
 
@@ -72,6 +83,7 @@ namespace ShoppingCart
 
             return _total;
         }
+
         public Decimal totalDiscountedBasket(List<BasketItem> basket)
         {
             Decimal _total = 0;

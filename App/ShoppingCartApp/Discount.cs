@@ -53,11 +53,15 @@ namespace ShoppingCart
         //3-4-2 discount
         public List<BasketItem> applyDiscount(List<BasketItem> products)
         {
+            
+
             foreach (Product product in products)
             {
+                int noOfDivisions = product.Quantity / 3;
+
                 if (product.Quantity >= 3)
                 {
-                    product.Quantity = product.Quantity - 1;
+                    product.Quantity = product.Quantity - (1 * noOfDivisions);
                 }
             }
 

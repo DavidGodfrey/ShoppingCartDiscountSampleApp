@@ -4598,8 +4598,8 @@
     },
     "ShoppingCart/1.0.0": {
       "type": "project",
-      "path": "../TestApp/ShoppingCart.csproj",
-      "msbuildProject": "../TestApp/ShoppingCart.csproj"
+      "path": "../ShoppingCartApp/ShoppingCart.csproj",
+      "msbuildProject": "../ShoppingCartApp/ShoppingCart.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4619,11 +4619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\source\\repos\\TestApp\\TestBasket\\TestBasket.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\TestBasket\\TestBasket.csproj",
       "projectName": "TestBasket",
-      "projectPath": "C:\\Users\\David\\source\\repos\\TestApp\\TestBasket\\TestBasket.csproj",
+      "projectPath": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\TestBasket\\TestBasket.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\source\\repos\\TestApp\\TestBasket\\obj\\",
+      "outputPath": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\TestBasket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4647,8 +4647,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\ShoppingCart.csproj": {
-              "projectPath": "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\ShoppingCart.csproj"
+            "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\ShoppingCart.csproj": {
+              "projectPath": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\ShoppingCart.csproj"
             }
           }
         }

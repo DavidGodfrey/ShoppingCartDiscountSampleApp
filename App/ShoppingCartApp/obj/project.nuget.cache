@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJjSCLn28fTikVZ6UcEzP5kSALANWJWOhesMJgO2M+BwY0IdWznCPB3evNZTSeCEbq2VPTI5NcZ3oS48CthagQ==",
+  "dgSpecHash": "f+7nCrhW5vkZLTKcN5eFnF7qb/sAD9Hxuu4ouV/jE2ZC+bpoFKi73kiDdoLN1bfwOsL155Q0es/BtM95N9GH5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David\\source\\repos\\TestApp\\TestApp\\ShoppingCart.csproj",
+  "projectFilePath": "C:\\Users\\David\\Documents\\Visual Studio 2022\\Projects\\ShoppingCartDiscountSampleApp\\App\\ShoppingCartApp\\ShoppingCart.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
